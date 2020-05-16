@@ -27,7 +27,6 @@ window.addEventListener("load", function(event) {
         cor(document.querySelector('#vol_r').value,document.querySelector('#vol_g').value,document.querySelector('#vol_b').value)
     })
     
-
     //função que aplica a cor no quadradro
     function cor(r,g,b){
         document.querySelector('#qua').setAttribute("style", 
@@ -42,5 +41,4 @@ window.addEventListener("load", function(event) {
         document.querySelector('.titolos_b').setAttribute("style", 
         `color:rgb(${0},${0},${b});`);
     }
-
 });
