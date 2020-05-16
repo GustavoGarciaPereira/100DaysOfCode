@@ -1,0 +1,39 @@
+.quadrado{
+    width: 100px;
+    height: 100px;
+    border: 0px solid;
+    background-color:rgb(200,200,200);
+
+    
+}
+.titolos_r{
+    padding-right: 40px;
+    color: red;
+}
+
+.titolos_g{
+    padding-right: 70px;
+    color: green;
+}
+
+.titolos_b{
+    padding-right: 80px;
+}
+
+.controles_cores{
+    padding-bottom: 23px;
+}
+.a{
+
+ padding-left: 200px;
+ padding-top:30px;
+}
+
+.conteudo{
+    padding-top: 80px;
+    padding-left: 40px;
+}
+
+#titulo{
+    padding-left: 15rem;
+}
